@@ -6,6 +6,6 @@ compatibility_date = "2024-01-01"
 workers_dev = true
 
 # KV 命名空间绑定（可选，如果需要使用 KV 缓存请取消注释）
-# [[kv_namespaces]]
-# binding = "KV"
-# id = "your-kv-namespace-id"
+ [[kv_namespaces]]
+ binding = "KV"
+ id = "3c2b8c20f4b94d5da0f728fcc0e833dd"
